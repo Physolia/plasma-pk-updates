@@ -2,13 +2,13 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Alexander Potashev <aspotashev@gmail.com>, 2016, 2017, 2019.
-# Alexander Yavorsky <kekcuha@gmail.com>, 2020, 2022.
+# Alexander Yavorsky <kekcuha@gmail.com>, 2020, 2022, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 12:39+0000\n"
-"PO-Revision-Date: 2022-06-14 22:04+0300\n"
+"PO-Revision-Date: 2025-02-13 12:48+0300\n"
 "Last-Translator: Alexander Yavorsky <kekcuha@gmail.com>\n"
 "Language-Team: Russian <kde-russian@lists.kde.ru>\n"
 "Language: ru\n"
@@ -94,11 +94,9 @@ msgid "No updates available"
 msgstr "Нет доступных обновлений"
 
 #: contents/ui/Full.qml:247
-#, fuzzy, kde-format
-#| msgctxt "@label part of a sentence"
-#| msgid "Check for updates when:"
+#, kde-format
 msgid "Check for Updates"
-msgstr "Проверить наличие обновлений:"
+msgstr "Проверить наличие обновлений"
 
 #: contents/ui/Full.qml:267
 #, kde-format
